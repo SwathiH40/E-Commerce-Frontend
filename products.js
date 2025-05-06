@@ -1,0 +1,51 @@
+const products = [
+    {
+        id: 1,
+        title: "Wireless Headphones",
+        price: 1999,
+        description: "Noise Cancelling over-ear bluetooth Headphones",
+        category: "Electronics",
+        image: "images/headphone.png",
+    },
+    {
+        id: 2,
+        title: "Smart Watch",
+        price: 2999,
+        description: "Fitness smart Watch with Heart Rate Monitor",
+        category: "Electronics",
+        image: "images/smartwatch.png",
+    },
+    {
+        id: 3,
+        title: "T-shirt",
+        price: 499,
+        description: "100% cotton Printed T-shirt",
+        category: "Clothing",
+        image: "images/t-shirt.png",
+    },
+    {
+        id: 4,
+        title: "mobiles",
+        price: "121000",
+        description: "512 gb RAM",
+        category: "electronics",
+        image: "images/mobiles.png",  
+    },
+    {
+        id: 5,
+        title: "shoes",
+        price: 1599,
+        description: "Comfortable to walk easy to run",
+        category: "Footwear",
+        image: "images/shoes.png",
+    },
+    {
+        id: 6,
+        title: "laptop",
+        price: 59000,
+        description: "64 gb RAM",
+        category: "Electronics",
+        image: "images/laptop.png",
+    },
+    // Add more products as needed
+];
